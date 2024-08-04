@@ -86,7 +86,7 @@ Explication de la commande :
 - `--name test-ic-webapp`: donne le nom `test12` au conteneur.
 - `ic-webapp`: nom de l'image Docker que vous avez construite.
 
-## Tag et Push de l'image vers le registre Docker
+### Tag et Push de l'image vers le registre Docker
 
 Pour taguer l'image et la pousser vers un registre Docker, utilisez les commandes suivantes :
 
